@@ -10,7 +10,7 @@ public class TestController {
 	public Employee data() {
 		Employee e=new Employee();
 		e.setEid(1);
-		e.setEname("bavani");
+		e.setEname("venkatesh");
 		e.setSalary(1000);
 		return e;
 	}
